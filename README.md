@@ -1,1 +1,2 @@
 # Hybrid-Movie-Recommender-System
+A Hybrid recommender system combines collaborative and content based filtering techniques to recommend the most similar movies. It uses weights for each recommendation technique to produce the final system. The give system utilises data collected from tmdb for about 5000 movies. Vectorization using bag of words method and Cosine similarity is used for content based system. Along with this popularity scores and user ratings are also taken into account for collaborative system.
